@@ -1,0 +1,24 @@
+{
+  "name": "dice-roller",
+  "version": "1.0.0",
+  "description": "This is a Node.js based website that implements a Dice Roller WebService application such that all random numbers are generated on the server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COE-420-S25/dice-roller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/COE-420-S25/dice-roller/issues"
+  },
+  "homepage": "https://github.com/COE-420-S25/dice-roller#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
