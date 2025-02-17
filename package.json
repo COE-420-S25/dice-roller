@@ -4,7 +4,7 @@
   "description": "This is a Node.js based website that implements a Dice Roller WebService application such that all random numbers are generated on the server.",
   "main": "server.js",
   "scripts": {
-    "test": "node index.js",
+    "test": "node server.js",
     "start": "node server.js"
   },
   "repository": {
